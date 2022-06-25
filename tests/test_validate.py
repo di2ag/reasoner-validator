@@ -54,3 +54,6 @@ def test_nullable():
         "results": None,
     }
     validate(message, "Message", "1.0.3")
+
+if __name__ == "__main__":
+    test_query()

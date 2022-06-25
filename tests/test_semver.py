@@ -13,3 +13,6 @@ def test_pattern():
     assert str(SemVer.from_string("1.2.4")) == "1.2.4"
     with pytest.raises(SemVerUnderspecified):
         assert str(SemVer.from_string("1.2"))
+
+if __name__ == "__main__":
+    test_pattern()

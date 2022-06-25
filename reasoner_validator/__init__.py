@@ -3,7 +3,7 @@ import jsonschema
 from .util import load_schema
 
 
-def validate(instance, component, trapi_version=None):
+def validate(instance, component: str, trapi_version: float=None):
     """Validate instance against schema.
 
     Parameters

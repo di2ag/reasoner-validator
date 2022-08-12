@@ -7,8 +7,6 @@ dist/
 .python-version
 __pycache__/
 venv/
-.test_venv/
-.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -139,3 +137,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#sym link for dev install
+reasoner_validator/reasoner_validator

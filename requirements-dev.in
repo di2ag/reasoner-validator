@@ -1,4 +1,9 @@
 -c requirements.txt
+# dependency management
 pip-tools
 pipdeptree
 pytest
+# version control system integration
+commitizen
+pre-commit
+pipreqs

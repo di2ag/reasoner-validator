@@ -1,7 +1,7 @@
 repos:
   # activate commitizen prompt for semantic versioning
   - repo: https://github.com/commitizen-tools/commitizen
-    rev: master
+    rev: v2.31.0
     hooks:
       - id: commitizen
         stages: [commit-msg]

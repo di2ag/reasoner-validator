@@ -65,7 +65,7 @@ pyparsing==3.0.9
     # via packaging
 pytest==7.1.2
     # via -r requirements-dev.in
-pyyaml==5.4
+pyyaml==6.0
     # via
     #   -c requirements.txt
     #   commitizen

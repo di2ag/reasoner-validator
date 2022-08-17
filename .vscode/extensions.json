@@ -12,5 +12,6 @@
         "Pod212.vscode-github-projects",
         "ms-vscode.vscode-github-issue-notebooks",
         "ms-azuretools.vscode-docker",
+        "bungcip.better-toml",
     ]
 }

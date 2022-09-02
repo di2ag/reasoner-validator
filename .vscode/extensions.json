@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "MarkLarah.pre-commit-vscode",
+        "ms-vscode-remote.remote-containers",
+        "ms-vsliveshare.vsliveshare",
+        "lostintangent.vsls-whiteboard",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "codezombiech.gitignore",
+        "streetsidesoftware.code-spell-checker",
+        "GitHub.vscode-pull-request-github",
+        "Pod212.vscode-github-projects",
+        "ms-vscode.vscode-github-issue-notebooks",
+        "ms-azuretools.vscode-docker",
+    ]
+}
